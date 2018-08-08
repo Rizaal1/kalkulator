@@ -1,0 +1,10 @@
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\Kalkulator\belajar_lagi_bro\bin\Debug\belajar_lagi_bro.exe
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\Kalkulator\belajar_lagi_bro\bin\Debug\belajar_lagi_bro.pdb
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\Kalkulator\belajar_lagi_bro\bin\Debug\belajar_lagi_bro.xml
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\Kalkulator\belajar_lagi_bro\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\Kalkulator\belajar_lagi_bro\obj\Debug\belajar_lagi_bro.Form1.resources
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\Kalkulator\belajar_lagi_bro\obj\Debug\belajar_lagi_bro.Resources.resources
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\Kalkulator\belajar_lagi_bro\obj\Debug\Aplikasi_Aritmatika.vbproj.GenerateResource.Cache
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\Kalkulator\belajar_lagi_bro\obj\Debug\belajar_lagi_bro.exe
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\Kalkulator\belajar_lagi_bro\obj\Debug\belajar_lagi_bro.xml
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\Kalkulator\belajar_lagi_bro\obj\Debug\belajar_lagi_bro.pdb
